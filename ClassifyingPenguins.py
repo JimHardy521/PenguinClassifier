@@ -6,11 +6,11 @@ from sklearn.ensemble import RandomForestClassifier
 
 st.write("""
 # JimHardy-DataScience:
-Penguin Prediction App
+# Penguin Prediction App
 
-This app predicts Penguin Species.
+Use the sidebar on the left to select your penguin's attributes.
 
-Tutorial following from: https://www.youtube.com/watch?v=Eai1jaZrRDs
+Tutorial followed from: https://www.youtube.com/watch?v=Eai1jaZrRDs
 
 
 """)
