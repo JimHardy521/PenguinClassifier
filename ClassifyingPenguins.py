@@ -5,7 +5,8 @@ import pickle
 from sklearn.ensemble import RandomForestClassifier
 
 st.write("""
-# JimHardy-DataScience: Penguin Prediction App
+# JimHardy-DataScience:
+Penguin Prediction App
 
 This app predicts Penguin Species.
 
