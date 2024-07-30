@@ -5,9 +5,11 @@ import pickle
 from sklearn.ensemble import RandomForestClassifier
 
 st.write("""
-# Penguin Prediction App
+# JimHardy-DataScience: Penguin Prediction App
 
-This app predicts the **Palmer Penguin** species!
+This app predicts Penguin Species.
+
+Tutorial following from: https://www.youtube.com/watch?v=Eai1jaZrRDs
 
 
 """)
