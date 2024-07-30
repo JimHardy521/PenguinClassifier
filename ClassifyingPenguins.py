@@ -15,7 +15,7 @@ Tutorial followed from: https://www.youtube.com/watch?v=Eai1jaZrRDs
 
 """)
 
-st.sidebar.header('Select Feature Attributes:')
+st.sidebar.header('Select Penguin Features:')
 
 
 # Collects user input features into dataframe
